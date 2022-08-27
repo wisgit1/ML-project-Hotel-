@@ -3,9 +3,7 @@ requests
 sklearn
 pandas
 numpy
-seaborn
 matplotlib
-CountVectorizer
 re
 string
 pickle
